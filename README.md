@@ -1,4 +1,4 @@
-# Content Based Movie Recommendation System with Sentiment Analysis
+# Content Based Movie Recommendation System with Sentiment Analysis of Reviews
 
 Based on the users search query, content based movie recommendation system will recommend similar movies based on the likes and sentiments on the reviews of the searched movie.
 
