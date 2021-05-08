@@ -4,6 +4,8 @@ Based on the users search query, content based movie recommendation system will 
 
 Details of a movie like the title, genere, runtime, rating, poster are extracted from TMDB using the API key generated from TMDB. Based on the IMDB ID of the movie in the API, reviews are scrapped using the `beautifulsoup4` library and sentiment analysis for those reviews are performed.
 
+## Live Demo - [https://moviie-rec-system.herokuapp.com/]
+
 ## How to run the project?
 
 1. Clone or download this repository to your local machine.
